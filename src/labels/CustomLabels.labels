@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>ACL22</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>ACL22</shortDescription>
+        <value>22</value>
+    </labels>
+    <labels>
+        <fullName>ACL24</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>ACL24</shortDescription>
+        <value>24</value>
+    </labels>
+    <labels>
+        <fullName>ACL25</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>ACL25</shortDescription>
+        <value>25</value>
+    </labels>
+</CustomLabels>
